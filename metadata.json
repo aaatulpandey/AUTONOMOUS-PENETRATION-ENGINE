@@ -1,0 +1,5 @@
+{
+  "name": "OMEGA WEB HUNTER",
+  "description": "An autonomous, AI-powered web security scanner dashboard acting as a BurpSuite replacement, featuring advanced recon, vulnerability analysis, and remediation reporting.",
+  "requestFramePermissions": []
+}
